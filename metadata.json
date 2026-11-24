@@ -1,0 +1,8 @@
+{
+  "name": "English 6 Studio — Học Tiếng Anh Lớp 6",
+  "description": "Ứng dụng học Tiếng Anh lớp 6 trực quan theo 12 Unit chuẩn chương trình: từ vựng flashcard có phát âm, sơ đồ ngữ pháp dễ nhớ, 8 dạng bài tập tương tác và đấu trường luyện thi IOE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
